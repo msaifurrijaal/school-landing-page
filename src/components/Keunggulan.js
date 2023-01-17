@@ -7,7 +7,7 @@ import school from './../assets/keunggulan/school.png'
 const Keunggulan = () => {
   return (
     <div>
-      <div className="container mt-5">
+      <div className="container mt-5 mb-5">
         <h2 className="text-center pt-1 pt-md-5 ">
           Kenapa Harus SMA Internasional Nusantara
         </h2>

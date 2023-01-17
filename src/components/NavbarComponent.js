@@ -4,7 +4,7 @@ import { Nav, Navbar, Container } from 'react-bootstrap';
 const NavbarComponent = () => {
   return (
     <div>
-        <Navbar className='custom-nav-color' variant='dark'>
+        <Navbar className='custom-nav-color fixed-top' variant='dark'>
         <Container>
           <Navbar.Brand href="#home">Nusantara High School</Navbar.Brand>
           <Nav className="ms-auto">
